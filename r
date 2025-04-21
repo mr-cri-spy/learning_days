@@ -13,5 +13,3 @@ right-Most Derivations
 
 
 
-
-
